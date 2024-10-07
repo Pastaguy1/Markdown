@@ -16,7 +16,7 @@
 <img src="https://www.eefkooktzo.nl/wp-content/uploads/2019/10/Vegetarische-nasi.jpg">
 
 # ZO MAAK JE HET (bereidingswijze):
-### Kook de rijst zoals aangegeven is op de verpakking.
+### Kook de rijst zoals aangegeven is op de verpakking
 ### Snipper het uitje, snij de knoflook fijn en snij de rode peper in dunne ringetjes.
 ### Verwijder eventueel de zaadlijsten van de rode peper zodat het iets minder pittig wordt.
 ### Doe een beetje olie in een wok en fruit de ui, knoflook en peper even aan.
